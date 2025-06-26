@@ -1,1 +1,4 @@
 # Rent-It-Now
+Rent It Now is a backend-driven rental management system developed using Spring Boot and Spring Data JPA, designed to streamline short-term product rentals. The system supports key backend functionalities such as product management, cart handling, order placement, and return processing for a wide range of rental items including clothing, electronics, and vehicles.
+Built with a modular RESTful architecture, the backend separates concerns through clean controller-service-repository layers, ensuring scalability and maintainability. Admins can perform CRUD operations on products, while users can search, add items to cart, specify rental durations, and place orders.
+This project demonstrates efficient backend design for real-world applications, laying a solid foundation for integration with any frontend or mobile interface to create a complete rental platform.
